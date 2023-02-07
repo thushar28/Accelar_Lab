@@ -16,3 +16,9 @@ a:visited
 {
     color: pink;
 }
+table,td,th
+{
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-size: 50px;
+}
